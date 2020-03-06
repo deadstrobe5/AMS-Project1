@@ -456,7 +456,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="0bd9f2ee-af51-4a6b-bb81-b5ce9a48614b" source="13982fb4-3c51-4f37-94b2-e6ac8e11a231" target="cb3b84c3-f219-4eac-b7d1-cafee95ccb2f" archimateRelationship="c9cbd52d-3115-442c-88ee-17364edbd0f4"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="bdf5c536-1001-4aa3-92f5-49a3af500d0f" targetConnections="da416212-0c1b-407c-9859-26d2cefe657e" textPosition="1" archimateElement="b4330972-0d01-4543-9028-1d732588e0a9">
-        <bounds x="650" y="864" width="189" height="100"/>
+        <bounds x="650" y="864" width="189" height="84"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="ec0eaae7-c33b-4923-8449-55dee5831377" targetConnections="0e143126-fb06-4e64-833a-853b9cfeb3a0" archimateElement="b2e73db0-956e-48c3-afa5-156a211c7f56">
         <bounds x="868" y="350" width="104" height="58"/>
