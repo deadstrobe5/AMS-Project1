@@ -66,7 +66,7 @@
     <element xsi:type="archimate:DataObject" name="QR code" id="7c008aba-c488-453d-9d94-3dcb9212c973"/>
     <element xsi:type="archimate:ApplicationService" name="Identificar cliente" id="69540c4a-7238-4546-ad72-a9ea742d5530"/>
     <element xsi:type="archimate:ApplicationProcess" name="Identicação com QR code" id="07a81536-dc8b-49c9-b90c-3724f4143afb"/>
-    <element xsi:type="archimate:ApplicationProcess" name="Processar pagamentos" id="a29bc5a8-3946-4145-9a5e-5c646bd93fa9"/>
+    <element xsi:type="archimate:ApplicationProcess" name="Transação financeira" id="a29bc5a8-3946-4145-9a5e-5c646bd93fa9"/>
     <element xsi:type="archimate:DataObject" name="Dados de compra" id="fc357161-005a-46ac-81d5-60f654ce5117"/>
     <element xsi:type="archimate:ApplicationService" name="Criar conta no sistema" id="9d51c947-6d8f-4706-af7d-6b4bce969c5d"/>
     <element xsi:type="archimate:ApplicationFunction" name="Criar conta de utilizador" id="6c5d8f88-c607-4b6c-997d-e6e640970c9c"/>

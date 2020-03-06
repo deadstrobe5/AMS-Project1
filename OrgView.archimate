@@ -49,7 +49,7 @@
     <element xsi:type="archimate:BusinessActor" name="Departamento de relações publicas" id="219c4cc9-0a31-4101-aca2-ca5aa25babff"/>
     <element xsi:type="archimate:BusinessRole" name="Gestão dos acordos com patrocinadores" id="08989751-f50a-4714-ae48-5ddb0968e561"/>
     <element xsi:type="archimate:BusinessActor" name="Departamento de gestão de parceiros" id="68cc125f-f294-4c3d-b2c2-9fa735fed95b"/>
-    <element xsi:type="archimate:BusinessRole" name="Gestão dos patrocinadores" id="decd3043-2929-4431-8649-c0e540b6a032"/>
+    <element xsi:type="archimate:BusinessRole" name="Gestão dos parceiros" id="decd3043-2929-4431-8649-c0e540b6a032"/>
   </folder>
   <folder name="Application" id="c2c2e881-9e50-47b5-8d80-7d423bbf7443" type="application"/>
   <folder name="Technology &amp; Physical" id="8564e001-2aeb-4daf-844b-53ff1faa7209" type="technology"/>
