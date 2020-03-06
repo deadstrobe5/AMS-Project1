@@ -25,7 +25,7 @@
     <element xsi:type="archimate:BusinessActor" name="CFO" id="f8055684-defb-4100-888c-e4d3db632f3f"/>
     <element xsi:type="archimate:BusinessActor" name="CEO" id="b4af0b2e-a65b-43ef-94bf-8e37c967d1f5"/>
     <element xsi:type="archimate:BusinessRole" name="Responsável de Finanças" id="4ef31f5b-5542-4efb-bcae-2a59a2e381bb"/>
-    <element xsi:type="archimate:BusinessActor" name="Departamento   de Financeiro" id="d4c2091d-fe98-4276-8a55-3caa176da220"/>
+    <element xsi:type="archimate:BusinessActor" name="Departamento   Financeiro" id="d4c2091d-fe98-4276-8a55-3caa176da220"/>
     <element xsi:type="archimate:BusinessActor" name="Departamento   de Falhas (copy)" id="60ff6b98-3e1e-4f03-b4ef-dfc55542b20b"/>
     <element xsi:type="archimate:BusinessActor" name="CTO" id="19ce925a-6617-4f58-8db1-4b2373df3b62"/>
     <element xsi:type="archimate:BusinessActor" name="CSO" id="270240b6-22d2-4185-b94a-a58acb51e5d1"/>
@@ -199,16 +199,12 @@
         <bounds x="240" y="798" width="157" height="49"/>
         <sourceConnection xsi:type="archimate:Connection" id="05654c1c-92e8-425c-b12f-7516376372c7" source="483f8fd0-7234-4c2b-b2ba-6b0ef7c6e0e5" target="012cf7f8-e612-48d1-be75-225fe0cb7140" archimateRelationship="5efb4690-5de6-4035-89bf-4655bc5e04c3"/>
       </child>
-      <child xsi:type="archimate:Note" id="3933670f-2290-4b8f-9d70-aee71ef92225" textAlignment="1">
-        <bounds x="948" y="600" width="312" height="60"/>
-        <content>Os vendedores especializados  facilitam a manutenção preditiva nas bancas de venda, especialmente em situações de maior sobrecarga.</content>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="012cf7f8-e612-48d1-be75-225fe0cb7140" targetConnections="209f0222-fcc2-4dd1-abb2-0bff75b9d174 05654c1c-92e8-425c-b12f-7516376372c7" font="1|Sans|12.0|0|GTK|1|" textPosition="1" archimateElement="113ed977-f818-41c3-af93-7ed328a012fe">
         <bounds x="504" y="786" width="154" height="74"/>
         <sourceConnection xsi:type="archimate:Connection" id="64c8ffa3-5c3a-496b-b0b8-c95ae36154a7" source="012cf7f8-e612-48d1-be75-225fe0cb7140" target="03cfc7d3-d17a-4b1b-94f5-2dd89218c1ea" archimateRelationship="efe54c34-bd8d-4572-adb6-a04a109b826b"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="343bc654-9d69-4b39-93d7-3a399962f503" targetConnections="63494e6d-61dd-4a86-b27b-7d7710f18691" font="1|Sans|12.0|0|GTK|1|" textPosition="1" archimateElement="fd095a5a-fddf-4cd2-ac91-65ac9d02f2c9">
-        <bounds x="773" y="334" width="148" height="65"/>
+        <bounds x="773" y="334" width="148" height="75"/>
         <sourceConnection xsi:type="archimate:Connection" id="98612c2a-7b5c-4d04-be5d-63933687eef7" source="343bc654-9d69-4b39-93d7-3a399962f503" target="438dd875-fcba-4636-8eb2-9b55aab268e2" archimateRelationship="b1167ae3-95c5-4186-87d6-7dbb41466a31"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="5957b32d-a4a1-401e-8b4a-04342cc7237e" targetConnections="b7ad5c7f-2c16-4f1f-809f-13d7741f95f2 58cd6e37-5238-4bb2-8f37-b5fca7f38614" font="1|Sans|12.0|0|GTK|1|" textPosition="1" archimateElement="ba59e0c2-22d0-45d6-9613-eae05de15fcd">
